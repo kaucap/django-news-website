@@ -1,6 +1,6 @@
 <h1 align="center">Новостной сайт на Джанго</h1>
 <p align="center">
-<img width="500px" height="500px" src="./static/images/logo.jpg">
+<img width="500px" height="500px" src="static/images/logotype.jpg">
 </p>
 
 ## Описание
